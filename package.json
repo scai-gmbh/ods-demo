@@ -12,7 +12,6 @@
     "next-themes": "^0.4.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwind-merge": "^3.0.1",
     "@telekom-ods/react-ui-kit-base": "1.11.4"
   },
   "devDependencies": {
@@ -26,15 +25,8 @@
     "eslint-config-next": "15.2.3",
     "eslint-plugin-react-compiler": "19.0.0-beta-30d8a17-20250209",
     "typescript": "^5.7.3",
-
-    "@tailwindcss/language-server": "^0.14.2",
-    "@tailwindcss/postcss": "^4.0.1",
-    "postcss": "^8.5.1",
-    "postcss-import": "^16.1.0",
-    "postcss-url": "^10.1.3",
     "prettier": "^3.4.2",
     "prettier-plugin-tailwindcss": "^0.6.11",
-    "react-compiler-runtime": "19.0.0-beta-30d8a17-20250209",
-    "tailwindcss": "^4.0.5"
+    "react-compiler-runtime": "19.0.0-beta-30d8a17-20250209"
   }
 }

@@ -5,7 +5,6 @@ import { ThemeProvider } from "next-themes";
 import { APP_TITLE } from "~/app/meta";
 
 import "@telekom-ods/react-ui-kit-base/index.css";
-import "./globals.css";
 
 export const metadata: Metadata = {
     title: APP_TITLE,
