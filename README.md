@@ -8,8 +8,6 @@ with the OneExperience Design System (ODS).
 
 ## Getting Started
 
-Ensure that you have run ./install.sh in main project to install pnpm and node in correct version:
-
 ```bash
 node use 20
 pnpm install
